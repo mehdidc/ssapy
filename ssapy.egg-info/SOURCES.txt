@@ -1,0 +1,9 @@
+README
+setup.py
+ssapy/__init__.py
+ssapy/ssa.py
+ssapy/ssa_root.py
+ssapy.egg-info/PKG-INFO
+ssapy.egg-info/SOURCES.txt
+ssapy.egg-info/dependency_links.txt
+ssapy.egg-info/top_level.txt
